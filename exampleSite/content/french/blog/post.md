@@ -8,4 +8,4 @@ image_webp = "/images/client/client-1.webp"
 title = "POst"
 
 +++
-Ceci est un post voiila voila c'est la meme chose q'une page web sauf que ici sur hugo il y a pas de difference entre page et post alors que sur wordpress il y en a une
+Ceci est un post voila voila c'est la même chose qu'une page web sauf que ici sur Hugo il y a pas de différence entre page et post alors que sur WordPress il y en a une
